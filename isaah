@@ -1,7 +1,9 @@
-<html> </hyml>
+<idoctype html>
+
+<html> 
 <title> Nails designer e extensão de cilios </title>
 <head> Estetica </head>
-<body> </body>
+<body> 
 
 
 <h1> <b> SEJA BEM-VINDA AO CENTRO DE BELEZA </b> </h1>
@@ -11,3 +13,5 @@ uma mulher, arrume-se para si mesma! </p>
 
 <li> unhas </li>
 <li> extensão de cilios </li>
+</body>
+</html>
